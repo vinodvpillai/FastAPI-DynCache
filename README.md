@@ -1,7 +1,3 @@
-Awesome! Since the issue is resolved, here’s a **well-structured `README.md`** for your **FastAPI-DynCache** project. This includes setup instructions, usage examples, and best practices. 🚀  
-
----
-
 # **FastAPI-DynCache** 🚀  
 **A FastAPI-based application with dynamic caching support using Memcached.**  
 This project allows **enabling/disabling caching dynamically** using environment variables, improving API performance and flexibility.  
